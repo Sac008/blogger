@@ -37,6 +37,16 @@
 
 #### User
 
+```json
+{
+  "username": "johndoe001",
+  "email" : "john@gmail.com",
+  "bio" : "I am a software engineer",
+  "avatar": "https://avatars.dicebar.com/v2/johndoe001.png"
+}
+```
+> Note: `Password` has to be hashed and stored too
+
 #### Article
 
 #### Comment
