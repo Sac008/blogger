@@ -78,3 +78,5 @@
 ```
 
 ### Schema Diagram
+
+<img width="551" height="291" alt="image" src="https://github.com/user-attachments/assets/cd4d18df-40ba-44a4-b5b7-325e4c2b6d74" />
